@@ -1,0 +1,1 @@
+var myStr = "\"That's not what I said!\" shouted Sarah"; //The '\' character lets the quotation mark be a part of the string without ending it
